@@ -8,7 +8,7 @@
 
 **DO NOT GIVE YOUR TOKEN TO OTHERS!**
 
-Use [Uptimerobot](uptimerobot.com)to make your repl online 24/7 if you don't have hacker plan. 
+Use [Uptimerobot](uptimerobot.com) to make your repl online 24/7 if you don't have hacker plan. 
 
 Feel free to ⭐ the Repository if this
 helped you! ;)
