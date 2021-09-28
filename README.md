@@ -1,4 +1,4 @@
- #About Project
+ `#`About Project
 
 ・This is a custom Rich Presence
 ![IMG_20210928_100504](https://user-images.githubusercontent.com/90468465/135023869-b9b14ffa-87d3-4228-aeb3-eb1dc07e0a3a.jpg)
